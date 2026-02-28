@@ -4,8 +4,7 @@ Modern ve kullanici dostu bir **Stok & Depo Yonetim Sistemi**. React, TypeScript
 
 ---
 
-Görseller
-
+![gorsel](https://i.imgur.com/a1tTdSU.png)
 ![gorsel](https://i.imgur.com/XTgHj4H.png)
 ![gorsel1](https://i.imgur.com/E5HTs5Z.png)
 ![gorsel2](https://i.imgur.com/6pocrTR.png)
