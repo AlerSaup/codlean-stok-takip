@@ -132,7 +132,7 @@ src/
 
 ```bash
 # 1. Projeyi klonlayin
-git clone https://github.com/kullanici/codlean-stok-takip.git
+git clone https://github.com/AlerSaup/codlean-stok-takip.git
 cd codlean-stok-takip
 
 # 2. Bagimliliklari yukleyin
